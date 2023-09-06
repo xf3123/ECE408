@@ -1,0 +1,12 @@
+profile:
+  id: 64f10f19e687e5146e08df67
+  firstname: Jonathan
+  lastname: "\uFEFF\x59\x61\x6E"
+  username: yan56
+  email: yan56@illinois.edu
+  access_key: auth0|64f10f1984a0a99f6c8b932f
+  secret_key: JGFyZ29uMmkkdj0xOSRtPTMyNzY4LHQ9NCxwPTQkYXZ5MlBmUEZva05WQzI1LzlQUXpiZyRWM2dVbnBvdVliTU1ZZ3QxOFBRc1Z6cFF0Sm5XVTVGY2Yxa2tXb3BEU3hF
+  affiliation: ece408
+  team:
+    name: ""
+  role: student
